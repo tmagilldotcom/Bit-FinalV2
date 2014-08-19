@@ -2,7 +2,7 @@
 <resources>
 
     <string name="app_name">Bit - Final</string>
-    <string name="hello_world">Hello world!</string>
+    <string name="hello_world">Hello world This has been changed</string>
     <string name="action_settings">Settings</string>
 
 </resources>
